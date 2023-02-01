@@ -1,0 +1,7 @@
+springapp/Client.class
+springapp/dba/DBAConnection.class
+springapp/ClientMongo.class
+springapp/Main.class
+springapp/AppController.class
+springapp/ClientMongoRepository.class
+springapp/Produit.class
